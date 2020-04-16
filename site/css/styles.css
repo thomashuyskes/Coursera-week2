@@ -73,6 +73,10 @@ body {background-color: #502114;}
 
  /*---Body---/* */
 
+h3 {font-size:2.0em;
+color:#C8B95F;
+text-transform:captalize;
+}
 #body-title{background-color:#C8B95F;text-align:center;}
 
 div.content{box-sizing:border-box;
